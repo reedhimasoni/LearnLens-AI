@@ -1,0 +1,6 @@
+{
+  "name": "LearnLens AI",
+  "description": "AI-powered personal study companion that turns syllabi, lecture slides, and notes into an adaptive daily roadmap with smart practice arena and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
